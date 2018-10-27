@@ -1,3 +1,5 @@
+# Privacy Policy
+
 # Android-Applications
 To Run the Project on Android Studio- Click File  Open Projects Select the project FolderRunSelect Device
 There is also an apk  ‘app-debug.apk’ attached in the folder which can be directly downloaded and run on your android device.
